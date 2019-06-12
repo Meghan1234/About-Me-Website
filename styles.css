@@ -1,0 +1,42 @@
+h1{
+  color: teal;
+  font-family: 'Indie Flower', cursive;
+}
+
+p{
+  font-family: 'Indie Flower', cursive;
+}
+
+p {
+  font-family: Times;
+  color: Blue;
+}
+
+h2 {
+  font-family: Aerial;
+  color: Teal;
+}
+
+nav {
+  background: turquoise
+}
+
+h1 {
+ border:dotted
+}
+
+li{
+  color: pink;
+}
+
+.pizza{
+  color: red;
+}
+
+#favorite {
+  color: gold
+}
+
+li.pizza {
+
+}
